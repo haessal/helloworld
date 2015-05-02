@@ -1,2 +1,6 @@
 # Eclipse
 .project
+
+# vagrant/baukis
+baukis-u/.ruby-version
+baukis-u/.vagrant
